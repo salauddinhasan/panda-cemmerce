@@ -1,1 +1,15 @@
  
+ 
+
+ .containar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .navbar-brand img{
+    height: 50px;
+    width: auto;
+ }
+ .navbar  {
+    width: 70%;
+ }
